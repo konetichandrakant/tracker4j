@@ -1,0 +1,32 @@
+.LandingPage {
+	background-color: #fafafa;
+	.SubHeader {
+		display: flex;
+		padding: 0.7rem;
+		.sortingDropdown{
+			margin-right: 10px;
+		}
+	}
+
+	.MainContent {
+		display: flex;
+		justify-content: space-between;
+
+		.Status {
+			background-color: #e7f3f2;
+			border-radius: 0.5rem;
+			flex: 1;
+			margin: 0.5rem;
+			padding: 0.75rem 1rem;
+
+			.ant-typography {
+				display: flex;
+				justify-content: center;
+			}
+
+			.Job {
+				margin: 1rem 0;
+			}
+		}
+	}
+}

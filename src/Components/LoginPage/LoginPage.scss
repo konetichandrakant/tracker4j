@@ -1,0 +1,16 @@
+.LoginPage {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: #ececec;
+
+	.ant-card {
+		width: min(100vw, 400px);
+	}
+
+	.LoginIcons {
+		color: rgba(0, 0, 0, 0.25);
+	}
+}

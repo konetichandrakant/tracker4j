@@ -1,0 +1,21 @@
+cff-version: 2.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kraft"
+  given-names: "Natalie"
+  orcid: "https://orcid.org/0000-0002-5919-5653"
+- family-names: "Royapally"
+  given-names: "Siddarth"
+- family-names: "Sarthi"
+  given-names: "Parth"
+- family-names: "Ramaswamy"
+  given-names: "Ashrita"
+- family-names: "Maduru"
+  given-names: "Jyothi Sumer Goud"
+- family-names: "Harde" 
+  given-names: "Kanishk"
+title: "CSC510 - Tracker4J to Manage Your Job Applications"
+version: 1.0.0
+doi: 10.5281/zenodo.7395381
+date-released: 2022-12-06
+url: "https://github.com/nakraft/tracker4J"

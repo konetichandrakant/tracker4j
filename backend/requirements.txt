@@ -1,0 +1,27 @@
+bcrypt==4.0.1  # Updated for Python 3.12 compatibility
+bson==0.5.10
+APScheduler==3.9.1.post1
+certifi==2023.7.22  # Latest version
+cffi==1.16.0  # Updated for Python 3.12 compatibility
+charset-normalizer==3.2.0  # Updated version
+click==8.1.7  # Latest version
+dnspython==2.4.0  # Latest version
+Flask==2.3.3  # Latest version
+idna==3.4
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3  # Latest version
+numpy==1.26.0  # Updated for Python 3.12 compatibility
+pandas==2.1.1  # Updated version for Python 3.12
+plotly==5.17.0  # Latest version
+pymongo==4.6.0  # Updated version
+python-dateutil==2.8.2
+pytz==2023.3  # Latest version
+requests==2.31.0  # Latest version
+six==1.16.0
+tenacity==8.2.2  # Latest version
+tzdata==2023.3
+tzlocal==5.0.1  # Updated version
+urllib3==2.0.6  # Latest version
+Werkzeug==2.3.7  # Latest version
+zipp==3.16.2  # Latest version
